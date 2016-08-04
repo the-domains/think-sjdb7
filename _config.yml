@@ -1,4 +1,3 @@
-layout_spectrum: 0.2620691757183522
 typography_spectrum: 0.898621178464964
 color:
   brandStrength: 0.20161132956855
@@ -11,5 +10,7 @@ color:
     - '#0D5748'
     - '#509E8F'
     - '#10241D'
+layout_spectrum: 0.2620691757183522
 name: Think
 title: ''
+description: '"If you wish to make an apple pie from scratch, yo'
